@@ -1,6 +1,6 @@
 👋 Hello, I'm Rohit Rawat, I'm a passionate software engineer with a strong interest in MERN stack development.
 
-As a developer, I am eager to apply my technical skills and creativity to design and build robust, user-friendly applications. My adaptability and quick learning ability will allow me to grasp new technologies and methodologies, enabling me to thrive in a fast-paced and ever-evolving development environment.
+As a  💻developer, I am eager to apply my technical skills and creativity to design and build robust, user-friendly applications. My adaptability and quick learning ability will allow me to grasp new technologies and methodologies, enabling me to thrive in a fast-paced and ever-evolving development environment.
 
 💡 Here's what I bring to the table:
 - 🚀 Full-stack Developer(MERN) | Open-Source Enthusiast | Tech Enthusiast
@@ -26,7 +26,7 @@ Happy coding! 🚀
 <a href="https://instagram.com/itzrawat011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzrawat011" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rawat_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rawat_12" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rohitrawat12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohitrawat12" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/@rohitr1292002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rohitr1292002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
