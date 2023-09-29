@@ -1,6 +1,6 @@
-👋 Hi there! I'm Rohit Rawat, a passionate fourth-year Engineering student with a strong interest in MERN stack development.
+👋 Hello, I'm Rohit Rawat, I'm a passionate software engineer with a strong interest in MERN stack development.
 
-🚀 I'm on a mission to create innovative web applications that not only solve real-world problems but also deliver an exceptional user experience. My journey in the world of software development has been an exciting one, and I'm always eager to learn and explore new technologies.
+As a developer, I am eager to apply my technical skills and creativity to design and build robust, user-friendly applications. My adaptability and quick learning ability will allow me to grasp new technologies and methodologies, enabling me to thrive in a fast-paced and ever-evolving development environment.
 
 💡 Here's what I bring to the table:
 - 💻 Proficient in the MERN (MongoDB, Express.js, React, Node.js) stack.
@@ -13,21 +13,19 @@
 
 🔗 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and don't hesitate to reach out. Together, we can build amazing things.
 
-📫 You can reach me at <a href="Shreyanshsri2812@gmail.com">Email</a>.
+📫 You can reach me at <a href="rohitrawat12092002@gmail.com">Email</a>.
+
+⚡ Fun fact **Outside of coding, I'm an avid cricket enthusiast. I enjoy both playing and watching cricket matches. Whether it's a friendly game at the local ground or a thrilling international match, cricket is my passion. Let's chat about our shared love for the game!
 
 Happy coding! 🚀
 
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qiJLs3hs7aRSDXPo7riVFzJ2nip0gQuO/view?usp=sharing](https://drive.google.com/file/d/1qiJLs3hs7aRSDXPo7riVFzJ2nip0gQuO/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shreyansh_sri12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyansh_sri12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreyansh-srivastava-9b15b91b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyansh-srivastava-9b15b91b6" height="30" width="40" /></a>
-<a href="https://instagram.com/shreyansh__srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyansh__srivastava" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shreyansh_2812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreyansh_2812" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shreyansh__srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyansh__srivastava" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shreyansh2812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreyansh2812" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohit-rawat-23702a207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-rawat-23702a207" height="30" width="40" /></a>
+<a href="https://instagram.com/itzrawat011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzrawat011" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rawat_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rawat_12" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rohitrawat12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohitrawat12" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
