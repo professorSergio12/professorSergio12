@@ -1,39 +1,191 @@
-👋 Hello, I'm Rohit Rawat, I'm a passionate software engineer with a strong interest in MERN stack development.
+# 👋 Hey there! I'm Rohit Rawat
 
-As a  💻developer, I am eager to apply my technical skills and creativity to design and build robust, user-friendly applications. My adaptability and quick learning ability will allow me to grasp new technologies and methodologies, enabling me to thrive in a fast-paced and ever-evolving development environment.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 
-💡 Here's what I bring to the table:
-- 🚀 Full-stack Developer(MERN) | Open-Source Enthusiast | Tech Enthusiast
-- 👨‍💻 Currently honing my skills in React, Node.js. and various modern libraries and frameworks.
-- 🛠️ Back-end skills in building RESTful APIs and microservices.
-- 📦 Experience with database management using MongoDB and SQL.
-- 🌟 Passion for clean and efficient code, along with a knack for problem-solving.
-- 🌱Actively exploring new technologies and tools to stay ahead in the ever-evolving tech landscape.
-- 🤝 Team player with excellent communication skills.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-🔗 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and don't hesitate to reach out. Together, we can build amazing things.
+### 🎯 Software Engineer | Building Scalable Web Applications | DevOps Explorer
 
-📫 You can reach me at <a href="rohitrawat12092002@gmail.com">Email</a>.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-rawat-23702a207)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitrawat12092002@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/rawat_12)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rohitrawat12)
 
-⚡ Fun fact 
-Outside of coding, I'm an avid cricket🏏 enthusiast. I enjoy both playing and watching cricket matches. Whether it's a friendly game at the local ground or a thrilling international match🏆, cricket is my passion. Let's chat about our shared love❤️ for the game!
+<img src="https://komarev.com/ghpvc/?username=amit101999&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
-Happy coding! 🚀
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohit-rawat-23702a207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-rawat-23702a207" height="30" width="40" /></a>
-<a href="https://instagram.com/itzrawat011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzrawat011" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rawat_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rawat_12" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rohitrawat12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohitrawat12" height="30" width="40" /></a>
-<a href="https://twitter.com/@rohitr1292002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rohitr1292002" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=professorSergio12&show_icons=true&locale=en&layout=compact" alt="professorSergio12" /></p>
+```javascript
+const amit = {
+    location: "Ludhiana, Punjab, India 📍",
+    currentRole: "Software Developer Intern @ Helios Tech Labs",
+    education: "MCA @ Graphic Era Hill University (8.39 CGPA)",
+    currentlyLearning: ["DevOps", "System Design"],
+    passions: ["Building scalable applications", "Problem solving", "Clean code"],
+    funFact: "I debug with console.log and I'm proud of it! 😄"
+};
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=professorSergio12&show_icons=true&locale=en" alt="professorSergio12" /></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=professorSergio12&" alt="professorSergio12" /></p>
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🗄️ Databases & ORMs
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🧩 Other Technologies
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge&logo=redis&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 💼 Professional Experience
+
+<div align="center">
+
+### 🚀 Helios Tech Labs - Software Developer Intern
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" /> **Key Achievements:**
+
+</div>
+
+- 🏪 Built a comprehensive **POS & Inventory Management System** using MERN stack
+- 🔗 Integrated with **Zoho Inventory & Foodics API** for multi-outlet automation
+- ⚡ Optimized RESTful APIs with caching & async handling, **reducing response time by 35%**
+- 🔄 Automated cron jobs for POS-inventory synchronization
+- 🔔 Enhanced notification polling mechanism with **JWT & RBAC**
+- ☁️ Deployed on **Zoho Catalyst AppSail**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amit101999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amit101999&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit101999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 🎯 Coding Profiles
+
+<div align="center">
+
+| Platform | Profile | Stats |
+|----------|---------|-------|
+| 🟢 **GeeksforGeeks** | [amit-thakur](https://auth.geeksforgeeks.org/user/rohitrawat12) | ![GFG](https://img.shields.io/badge/Solved-100+-brightgreen?style=flat-square) |
+| 🟠 **LeetCode** | [atulthakur10sep](https://www.leetcode.com/rawat_12) | ![LeetCode](https://img.shields.io/badge/Problems-Solved-orange?style=flat-square) |
+
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="300">
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 CGPA/Grade |
+|-----------|---------------|---------|---------------|
+| **Bachelor's Of Engineering** | Chandigarh University | 2020 - 2024 | 7.85 CGPA |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Current Focus] --> B[Kubernetes ☸️]
+    A --> C[DevOps 🔧]
+    A --> D[System Design 🏗️]
+    A --> E[Microservices 🔮]
+    
+    style A fill:#00D9FF,stroke:#333,stroke-width:4px,color:#000
+    style B fill:#326CE5,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#FF6B6B,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#4CAF50,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#FFA726,stroke:#333,stroke-width:2px,color:#fff
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+
+### 💌 Feel free to reach out for collaborations, opportunities, or just a tech chat!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-rawat-23702a207)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitrawat12092002@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<div align="center">
+
+### 🐍 Watch my contribution graph get eaten by the snake!
+
+![Snake animation](https://github.com/amit101999/amit101999/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### ⭐ From [amit101999](https://github.com/amit101999) | 💙 Thanks for visiting!
+
+<img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="500">
+
+**"Code is like humor. When you have to explain it, it's bad!"** 😄
+
+</div>
