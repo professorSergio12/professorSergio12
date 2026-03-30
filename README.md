@@ -17,18 +17,6 @@
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const amit = {
-    location: "Ludhiana, Punjab, India 📍",
-    currentRole: "Software Developer Intern @ Helios Tech Labs",
-    education: "MCA @ Graphic Era Hill University (8.39 CGPA)",
-    currentlyLearning: ["DevOps", "System Design"],
-    passions: ["Building scalable applications", "Problem solving", "Clean code"],
-    funFact: "I debug with console.log and I'm proud of it! 😄"
-};
-```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -77,24 +65,6 @@ const amit = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 💼 Professional Experience
-
-<div align="center">
-
-### 🚀 Helios Tech Labs - Software Developer Intern
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" /> **Key Achievements:**
-
-</div>
-
-- 🏪 Built a comprehensive **POS & Inventory Management System** using MERN stack
-- 🔗 Integrated with **Zoho Inventory & Foodics API** for multi-outlet automation
-- ⚡ Optimized RESTful APIs with caching & async handling, **reducing response time by 35%**
-- 🔄 Automated cron jobs for POS-inventory synchronization
-- 🔔 Enhanced notification polling mechanism with **JWT & RBAC**
-- ☁️ Deployed on **Zoho Catalyst AppSail**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 📊 GitHub Stats
 
@@ -115,8 +85,8 @@ const amit = {
 
 | Platform | Profile | Stats |
 |----------|---------|-------|
-| 🟢 **GeeksforGeeks** | [amit-thakur](https://auth.geeksforgeeks.org/user/rohitrawat12) | ![GFG](https://img.shields.io/badge/Solved-100+-brightgreen?style=flat-square) |
-| 🟠 **LeetCode** | [atulthakur10sep](https://www.leetcode.com/rawat_12) | ![LeetCode](https://img.shields.io/badge/Problems-Solved-orange?style=flat-square) |
+| 🟢 **GeeksforGeeks** | [rohit-rawat](https://auth.geeksforgeeks.org/user/rohitrawat12) | ![GFG](https://img.shields.io/badge/Solved-100+-brightgreen?style=flat-square) |
+| 🟠 **LeetCode** | [rohit-rawat](https://www.leetcode.com/rawat_12) | ![LeetCode](https://img.shields.io/badge/Problems-Solved-orange?style=flat-square) |
 
 <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="300">
 
@@ -182,7 +152,7 @@ graph LR
 
 ---
 
-### ⭐ From [amit101999](https://github.com/amit101999) | 💙 Thanks for visiting!
+### ⭐ From [professorSergio12](https://github.com/professorSergio12) | 💙 Thanks for visiting!
 
 <img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="500">
 
